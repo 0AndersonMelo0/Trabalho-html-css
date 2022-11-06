@@ -6,12 +6,12 @@
     position: absolute;
     width: 25%;
     height: 100%;
-    background: orangered;
+    background-color: #fa7d55;
 }
 .circulo{
     position: relative;
     width: 50%;
-    border: solid rgb(110, 4, 4) 5px;
+    border: solid  #9a2424 5px;
     border-radius: 50%;
 }
 .centro{
@@ -26,11 +26,11 @@
     margin-top: 100%;
     height: 50%;
     text-align: center;
-    color: white;
+    color: #b7b4b4;
 }
 .margin-top-p{
     margin-top: 8%;
-    color: rgb(178, 166, 151);
+    color: #b7b4b4;
 }
 #quadrado{
     position: absolute;
@@ -39,7 +39,7 @@
     margin-left: 30%;
 }
 span{
-    color: rgb(214, 11, 11);
+    color: #9a2424;
 }
 .centro-q{
     position: relative;
@@ -49,8 +49,8 @@ span{
 .tm{
     text-transform: uppercase;
     position: relative;
-    font-size: 500%;
-    margin-top: 15%;
+    font-size: 475%;
+    margin-top: 20%;
 }
 .tm2{
     text-transform: uppercase;
