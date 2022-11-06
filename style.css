@@ -1,0 +1,70 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#retangulo{
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    background: orangered;
+}
+.circulo{
+    position: relative;
+    width: 50%;
+    border: solid rgb(110, 4, 4) 5px;
+    border-radius: 50%;
+}
+.centro{
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+    margin-top: 30%;
+}
+#centrop-r{
+    position: relative;
+    margin-top: 100%;
+    height: 50%;
+    text-align: center;
+    color: white;
+}
+.margin-top-p{
+    margin-top: 8%;
+    color: rgb(178, 166, 151);
+}
+#quadrado{
+    position: absolute;
+    width: 70%;
+    height: 100%;
+    margin-left: 30%;
+}
+span{
+    color: rgb(214, 11, 11);
+}
+.centro-q{
+    position: relative;
+    margin-left: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tm{
+    text-transform: uppercase;
+    position: relative;
+    font-size: 500%;
+    margin-top: 15%;
+}
+.tm2{
+    text-transform: uppercase;
+    position: relative;
+    font-size: 125%;
+}
+.tm3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    font-size: 100%;
+    color: rgb(138, 137, 137);
+    margin-top: 5%;
+}
+h4{
+    position: relative;
+    font-size: 100%;
+}
