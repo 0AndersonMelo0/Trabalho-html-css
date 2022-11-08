@@ -43,22 +43,24 @@ span{
 }
 .centro-q{
     position: relative;
-    margin-left: 1%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 0.5%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .tm{
     text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
     position: relative;
     font-size: 480%;
     margin-top: 20%;
 }
 .tm2{
     text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
     position: relative;
     font-size: 130%;
 }
 .tm3{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     position: relative;
     font-size: 100%;
     color: rgb(138, 137, 137);
